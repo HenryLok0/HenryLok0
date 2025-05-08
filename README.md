@@ -10,7 +10,6 @@ I'm a passionate software developer with a keen interest in open source projects
 - 🤔 Interested in exploring cloud computing and microservices architecture.
 - 💬 Ask me about anything related to Python, JavaScript, and DevOps.
 - 📫 How to reach me: [ihenrylok@gmail.com](mailto:ihenrylok@gmail.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy hiking and photography during my free time.
 
 ## GitHub Stats
