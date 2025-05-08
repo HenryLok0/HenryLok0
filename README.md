@@ -20,6 +20,12 @@ I'm a passionate software developer with a keen interest in open source projects
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryLok0&layout=compact&theme=radical)
 
+## Achievements
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=HenryLok0&theme=radical)
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ihenrylok)
+
+![Profile views](https://komarev.com/ghpvc/?username=HenryLok0)
