@@ -1,6 +1,6 @@
 ## GitHub Stats
 
-![HenryLok0's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryLok0&show_icons=true&theme=holi)
+![HenryLok0's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrylok0&bg_color=30,a78abd,b4b5c2&title_color=fff&text_color=fff)
 
 ## Social Media
 
