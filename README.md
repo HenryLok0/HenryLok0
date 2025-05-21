@@ -1,11 +1,7 @@
 ### GitHub Analytics
 
-<div style="display: flex; justify-content: space-around;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrylok0&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=henrylok0&theme=github-dark&hide_border=true"/>
-</div>
-
----
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrylok0&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Henry Lok's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrylok0&layout=compact&theme=github_dark&hide_border=true" alt="Henry Lok's Top Languages" /> |
+| ------------- | ------------- |
 
 ## Social Media
 
