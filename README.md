@@ -1,6 +1,6 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=henrylok0&show_icons=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=henrylok0&include_all_commits=true&show_icons=true&theme=transparent"
     alt="Henry Lok's GitHub stats"
     style="height: 180px; width: auto; display: block;"
   />
