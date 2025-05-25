@@ -5,7 +5,7 @@
     style="height: 180px; width: auto; display: block;"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrylok0&layout=donut&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrylok0&layout=compact&theme=transparent"
     alt="Top Languages"
     style="height: 180px; width: auto; display: block;"
   />
