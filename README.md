@@ -1,5 +1,9 @@
-| <a href="https://github.com/henrylok0"><img align="center" src="https://github-readme-stats.vercel.app/api?username=henrylok0&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&text_bold=true" alt="henrylok0's github stats" /></a> | <a href="https://github.com/henrylok0"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrylok0&layout=compact&theme=transparent&hide_border=true&text_bold=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/henrylok0/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-henrylok0s-projects.vercel.app/api?username=henrylok0&include_all_commits=true&theme=transparent&hide_border=true&text_bold=true" />
+</a>
+<a href="https://github.com/henrylok0/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-henrylok0s-projects.vercel.app/api/top-langs?username=henrylok0&theme=transparent&hide_border=true&text_bold=true&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/HenryLok0/HenryLok0?color=blue)
 ![visitors](https://komarev.com/ghpvc/?username=HenryLok0&color=blue&style=flat)
