@@ -7,3 +7,5 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=HenryLok0&color=blue&style=flat)
 ![Profile Views](https://img.shields.io/github/watchers/HenryLok0/HenryLok0?style=social)
+<a href="https://github.com/HenryLok0"><img src="https://img.shields.io/github/stars/HenryLok0" alt="Total Github Stars"></a>
+<a href="https://github.com/HenryLok0?tab=followers"><img src="https://img.shields.io/github/followers/HenryLok0" alt="Total Github Followers"></a>
